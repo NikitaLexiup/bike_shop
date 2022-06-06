@@ -108,7 +108,7 @@ body {
 }
 
 .menu {
-  max-width: 100%;
+  max-width: 1600px;
   max-height: 180px;
   position: absolute;
   z-index: 1;
